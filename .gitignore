@@ -1,0 +1,8 @@
+venv/
+.env
+chroma_db/
+uploads/
+__pycache__/
+*.py[cod]
+docmind_history.db
+.vscode/
